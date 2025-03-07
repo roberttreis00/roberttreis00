@@ -1,7 +1,15 @@
-👋 Olá sou o Robertt!
+## 👋 Olá, sou o Robertt!
+
+Programador focado em Python, Dados e sempre em busca de soluções em código.
+
+---
+
+### 🌟 Estatísticas do GitHub
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=roberttreis00&show_icons=true&theme=radical)
 
+### 💻 Linguagens mais utilizadas
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberttreis00&layout=compact&theme=tokyonight)
 
-🌍 Conecte-se comigo: [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/roberttreis00/)
+---
