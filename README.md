@@ -1,6 +1,4 @@
-## 👋 Olá, sou o Robertt!
-
-Programador focado em Python, Dados e sempre em busca de soluções em código.
+👋 Olá, sou o Robertt!
 ---
 
 ### 🌟 Estatísticas do GitHub
